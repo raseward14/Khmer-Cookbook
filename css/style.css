@@ -44,5 +44,8 @@ body {
   color: brown;
   font-family: kalam;
   margin: 50px 250px 50px 250px;
-  background-image: url("images/samlum sunset.jpg");
+}
+
+body [background] {
+  background-size: contain;
 }

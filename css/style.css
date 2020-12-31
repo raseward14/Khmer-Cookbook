@@ -1,0 +1,48 @@
+.smaller-image {
+  width: 100px;
+}
+.larger-image {
+  width: 250px;
+}
+.thick-red-border {
+  border-radius: 20px;
+  border-color: red;
+  border-style: inset;
+}
+.green-text {
+  color: #00FF00;
+}
+.blue-text {
+  color: blue;
+}
+.purple-text {
+  color: purple;
+}
+.red-text {
+  color: red;
+}
+h1 {
+  font-family: "Great Vibes", cursive;
+  text-align: center;
+  font-size: 2cm;
+}
+h2 {
+  font-family: "permanent marker", cursive;
+  border: brown;
+  border-style: inset;
+  text-align: center;
+}
+h3 {
+  font-family: "Kalam", cursive;
+  border-style: dashed;
+}
+img {
+  border-radius: 50%;
+}
+body {
+  text-align: left;
+  color: brown;
+  font-family: kalam;
+  margin: 50px 250px 50px 250px;
+  background-image: url("images/samlum sunset.jpg");
+}

@@ -82,10 +82,14 @@ h3 {
 img {
   border-radius: 50%;
 }
+a :hover {
+  transform: scale(1.2);
+}
+
 body {
   text-align: left;
   color: brown;
-  font-family: kalam;
+  font-family: "Kalam";
 }
 
 body [background] {

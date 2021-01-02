@@ -112,7 +112,7 @@ h3 {
 img {
   border-radius: 50%;
 }
-a :hover {
+section div .card-footer :hover {
   transform: scale(1.2);
 }
 

@@ -41,6 +41,15 @@
   position: relative;
 }
 
+#box-container {
+  display: flex;
+}
+
+#box1 {
+  display: flex;
+  align-self: center;
+}
+
 .smaller-image {
   width: 100px;
 }

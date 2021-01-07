@@ -41,6 +41,10 @@
   position: relative;
 }
 
+div .card {
+  margin: 10px;
+}
+
 #box-container {
   display: flex;
 }

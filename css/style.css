@@ -41,6 +41,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 #box-container {
   display: flex;
@@ -53,6 +54,7 @@ div .card-group {
   margin: 10px;
   display: flex;
   flex-direction: row;
+  align-items: center;
 }
 
 .smaller-image {
